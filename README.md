@@ -135,18 +135,18 @@ A Notion × Atlassian inspired ops workspace for **freelancers & agencies**.
     <img src="https://skillicons.dev/icons?i=github" width="48" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/saiprasad-shiragave-a16522271">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:saishiragave@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" />
   </a>
 </p>
 
 <p align="center">
   🔗 <strong>GitHub:</strong> <a href="https://github.com/notyourbeast">github.com/notyourbeast</a><br/>
-  🔗 <strong>LinkedIn:</strong> <a href="YOUR_LINKEDIN_URL">YOUR_LINKEDIN_URL</a><br/>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/saiprasad-shiragave-a16522271">https://www.linkedin.com/in/saiprasad-shiragave-a16522271</a><br/>
   🔗 <strong>Webibook:</strong> <em>Launching soon</em>
 </p>
 
