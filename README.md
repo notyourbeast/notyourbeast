@@ -1,204 +1,216 @@
-<!-- 🌊 Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=250&section=header&text=Saiprasad%20%22Sai%22%20Shiragave&fontSize=40&fontAlignY=40&desc=Founder%20•%20Automation%20Engineer%20•%20MSc%20IS%20(Computing)%20@%20DBS%20Dublin&descAlignY=65&fontColor=ffffff" width="100%" />
+<!-- 🌊 HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=230&section=header&text=Saiprasad%20(Sai)%20Shiragave&fontSize=42&fontAlignY=40&desc=Founder%20•%20Automation%20Engineer%20•%20MSc%20IS%20@%20DBS%20Dublin&descAlignY=65&fontColor=ffffff" width="100%"/>
 
 <div align="center">
 
-### 🔥 Founder • Automation Engineer • MSc Information Systems with Computing (DBS Dublin)  
-Building **Webibook**, scaling automation systems, and operating with founder-level clarity.
+### 🔥 **Founder • Automation Engineer • MSc Information Systems (Computing)**  
+### Building **Webibook**, shipping automation systems, operating with founder-level pace.
 
 <br/>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiprasad-shiragave-a16522271)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notyourbeast)
-![Profile Views](https://komarev.com/ghpvc/?username=notyourbeast&style=for-the-badge&color=1e90ff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiprasad-shiragave-a16522271)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white)](https://github.com/notyourbeast)
+![Views](https://komarev.com/ghpvc/?username=notyourbeast&color=1e90ff&style=flat)
 
-<br/>
+<br/><br/>
 
-### 🧠 _“I build systems that remove human effort — not add features.”_
+### <strong>“I build systems that remove human effort — not add features.”</strong>
 
 </div>
 
 ---
 
-## 🚀 01 — What I’m Building
+<br/>
 
-### 🔵 Webibook — Founder & Product Lead  
-A modern platform for **discovering and booking live-learning events**.
+# 🚀 **01 — What I'm Building**
+<div align="center">
+<table>
+<tr><td align="left">
 
-- AI-driven event discovery  
-- Creator dashboards & analytics  
-- Frictionless booking  
-- Automation-first backend  
+### 🔵 **Webibook — Founder & Product Lead**
+A modern platform for discovering and booking **live-learning events**.
 
-**Stack:** `Next.js` · `Node.js` · `MongoDB` · `AWS` · `Automation Pipelines`
+**Focus:**  
+• AI Discovery  
+• Auto-curation  
+• Creator dashboards  
+• Frictionless booking  
+• Automation-first backend  
 
----
+**Stack:** Next.js · Node.js · MongoDB · AWS
 
-### 🟣 Client Ops Desk — Automation Platform  
-A clean, automation-heavy workspace for **freelancers & agencies**:
+</td><td width="30%">
 
-- client workflows  
-- deliverables  
-- billing & files  
-- notes & dashboards  
+<img src="https://i.imgur.com/OjVYeSh.png" width="100%" />
 
-Looks like **Notion × Atlassian**, built with founder urgency.
-
----
-
-## 🧠 02 — My Edge
-
-> Most students code.  
-> Most founders pitch.  
-> I do both — aggressively.
-
-- Ship fast, consistently  
-- Architect systems, not toy apps  
-- Automate everything repeatable  
-- Think like a founder, execute like an engineer  
+</td></tr>
+</table>
+</div>
 
 ---
 
-## 🛠 03 — Tech Stack (with Icons)
+<div align="center">
+<table>
+<tr><td align="left">
+
+### 🟣 **Client Ops Desk — Automation Platform**
+A compact, Notion×Atlassian hybrid system for freelancers & agencies.
+
+**Features:**  
+• Client workflows  
+• Deliverables  
+• Billing  
+• Notes  
+• File mgmt  
+• Automations  
+
+</td><td width="30%">
+
+<img src="https://i.imgur.com/GQaZo9u.png" width="100%" />
+
+</td></tr>
+</table>
+</div>
+
+---
+
+<br/>
+
+# 🔥 **02 — My Edge**
+<div align="center">
+<em>Most students code. Most founders pitch.  
+I do both — aggressively.</em>
+</div>
+
+<br/>
+
+- Fast shipping, clean execution  
+- System-level thinking  
+- Automation-first mindset  
+- Founder clarity + engineer precision  
+- Document → Build → Automate → Scale  
+
+---
+
+<br/>
+
+# 🛠 **03 — Tech Stack (Aligned & Visual)**
 
 <div align="center">
 
-### 🛠 Core Tech
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,fastapi,tailwind,postgres,mongodb,aws,docker,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,fastapi,tailwind,postgres,mongodb,aws,docker,git,github,linux&theme=dark" width="85%"/>
 
 </div>
 
-### 🔤 Languages
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<br/>
+
+## **⚙ Backend**
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
-<p>
+## **🎨 Frontend**
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=storybook&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=storybook&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
-<p>
-<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+## **🗄 Databases**
+<p align="center">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🗄 Databases
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF"/>
-</p>
-
-### 🧱 DevOps & Infra
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF"/>
+## **🧱 DevOps**
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000"/>
 </p>
 
-### 🤖 AI & Automation
-<p>
-<img src="https://img.shields.io/badge/RAG_Systems-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=FFFFFF"/>
-</p>
-
 ---
 
-## 📂 04 — Selected Work
+<br/>
 
-### 🚀 Webibook  
-> The “BookMyShow for live learning.”
-
-- Discover high-value live-learning events  
-- Book in a few clicks  
-- Creators manage events, attendees & analytics  
-
----
-
-### 📁 Client Ops Desk  
-A focused ops system for agencies & freelancers.  
-One place for clients, deliverables, notes, and automations.
-
----
-
-### 🤖 AI FAQ Builder (Capstone)  
-RAG + FastAPI + MongoDB.  
-Academic work built with **industry** patterns.
-
----
-
-### 🏥 Hospital DBMS  
-Relational DB with ERD, PK/FK, joins, and business logic — beyond textbook level.
-
----
-
-## 📈 05 — 2025 → 2026 Roadmap
-
-- 🚀 **Launch Webibook Beta**  
-- 💸 **Scale automation agency toward $10k/month**  
-- ☁️ **AWS CP → AWS Associate**  
-- 📚 **Publish RAG Optimization research**  
-- 🧱 **Build production-grade tools** on AWS/Docker  
-- 💼 **Land a cloud/automation / engineering role in Dublin**  
-- 🎥 **Document the journey** via LinkedIn & content  
-
----
-
-## 📊 06 — GitHub Stat Cards & Activity
+# 📈 **04 — GitHub Stats (Centered, Symmetrical)**
 
 <div align="center">
-
-<!-- Main Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=notyourbeast&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="160"/>
-
-<!-- Streak Card -->
-<img src="https://streak-stats.demolab.com?user=notyourbeast&theme=tokyonight&hide_border=true" height="160"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyourbeast&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=notyourbeast&theme=tokyonight&show_icons=true&rank_icon=percentile&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=notyourbeast&theme=tokyonight&hide_border=true"/>
+  
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notyourbeast&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🧩 07 — Operating Principles
+<br/>
 
-- Momentum > ideas  
-- Simplicity > complexity  
-- Systems > features  
-- Automation > repetition  
-- Documentation > memory  
-- Execution > perfection  
-
----
+# 🎯 **05 — 2025 → 2026 Roadmap**
 
 <div align="center">
 
-### 🐺 THE FOUNDER CODE  
-> **“If I don’t build it, someone else will.”**
+| Goal | Status |
+|------|--------|
+| Webibook Beta | 🚀 Q1 2025 |
+| AWS CP → SAA | 🔄 In progress |
+| RAG Optimization Research | 🧪 Drafting |
+| Automation Agency to $10k/mo | 📈 Building |
+| Dublin Graduate Role | 🎯 Target 2026 |
+| Weekly OSS Contributions | 🟩 Active |
 
 </div>
 
 ---
 
-## 📫 08 — Connect
+<br/>
 
-- **GitHub:** [github.com/notyourbeast](https://github.com/notyourbeast)  
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/saiprasad-shiragave-a16522271)  
-- **Webibook:** _Beta launching soon_  
+# 🧩 **06 — Operating Principles**
+
+<div align="center">
+
+**Momentum > Ideas**  
+**Simplicity > Complexity**  
+**Systems > Features**  
+**Automation > Repetition**  
+**Execution > Perfection**
+
+</div>
 
 ---
 
-<!-- 🌊 Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=120&section=footer" width="100%" />
+<br/>
+
+# 🐺 **THE FOUNDER CODE**
+
+<div align="center">
+  
+### **“If I don’t build it, someone else will.”**
+
+</div>
+
+---
+
+<br/>
+
+# 📫 **07 — Connect**
+
+<div align="center">
+
+**🔗 GitHub:** https://github.com/notyourbeast  
+**🔗 LinkedIn:** https://www.linkedin.com/in/saiprasad-shiragave-a16522271
+**🔗 Webibook:** _Launching soon_
+
+</div>
+
+---
+
+<!-- 🌊 FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=footer" width="100%"/>
