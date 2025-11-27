@@ -1,112 +1,141 @@
-<h1 align="center" style="font-weight:600;">Saiprasad (Sai) Shiragave</h1>
+<h1 align="center" style="font-weight:700; letter-spacing:-1px; font-size:42px;">
+  Saiprasad (Sai) Shiragave
+</h1>
 
-<p align="center">
+<p align="center" style="font-size:16px; color:#555;">
   Founder • Automation Engineer • MSc Information Systems (Computing) @ DBS Dublin  
 </p>
 
----
+<br/>
 
-## Executive Summary
+<!-- SECTION BLOCK START -->
+<div align="center">
 
-I build products and systems that remove operational friction.  
-My work combines engineering discipline, product clarity, and the urgency of a founder shipping fast.
+<div style="width:80%; max-width:720px; border:1px solid #e5e5e5; padding:20px 28px; text-align:center;">
 
-I focus on creating tools that work quietly, scale cleanly, and enhance how people learn, collaborate, and manage their work.  
-Every project I build reflects a simple principle: **clarity is a competitive advantage**.
+<div style="font-size:20px; font-weight:600; margin-bottom:8px;">I build systems with clarity.</div>
+<div style="font-size:16px; color:#555;">Not products overloaded with noise or unnecessary complexity.</div>
 
----
+</div>
 
-## Current Ventures
+</div>
+<!-- SECTION BLOCK END -->
 
-### Webibook — Founder & Product Lead  
-A modern platform designed to simplify discovery and booking for live-learning sessions.
+<br/><br/>
 
-**Positioning:**  
-A cleaner, more intentional learning-discovery experience with automation at the core.
 
-**Responsibilities:**  
-- Vision & product direction  
-- System architecture  
-- Engineering & deployment  
-- User experience & creator workflows
+## Overview
+I’m a builder focused on **systems, automation, and clean product thinking**.  
+I design tools that operate quietly, scale predictably, and simplify complex workflows —  
+with the same calm, structured philosophy that defines Notion, Linear, and modern engineering teams.
 
----
-
-### Client Ops Desk — Operational Workspace  
-A Notion-inspired operational tool for freelancers and agencies.
-
-**Purpose:**  
-To replace clutter, scattered files, and inconsistent workflows with a structured, minimal environment built for real execution.
+My goal: build with intention, ship with discipline, and operate with founder-level ownership.
 
 ---
 
-## Areas of Competence
+## Work
 
-**Product & Design**  
-- Clean UX frameworks  
-- Systems thinking  
-- Minimal, intentional interface design  
-- Customer-centric product iteration  
+### Webibook — Founder  
+A streamlined way to discover and book live-learning sessions.
 
-**Engineering**  
-- Full-stack development  
-- Workflow automation  
-- Cloud infrastructure  
-- Backend architecture  
-- AI-assisted systems (RAG, agents)
+**Why it matters:**  
+Today’s learning ecosystems are fragmented and noisy. Webibook creates a **structured, modern, distraction-free** experience for learners and creators.
 
-**Tools & Technologies**  
-- Next.js, React, Tailwind, ShadCN  
-- Node.js, Express, FastAPI  
-- MongoDB, PostgreSQL  
-- AWS, Docker, Linux  
-- GitHub Actions, CI/CD  
-- RAG systems, workflow engines
+**Areas:**  
+- discovery architecture  
+- creator dashboard systems  
+- automation workflows  
+- full-stack execution  
 
 ---
 
-## Operating Principles
+### Client Ops Desk  
+A minimal operational workspace for freelancers & agencies — Notion-like in structure, system-like in execution.
 
-**Clarity over complexity**  
-Every system should be understandable at a glance.
-
-**Structure over aesthetics**  
-The architecture matters more than the shine.
-
-**Momentum over perfection**  
-Shipping creates real feedback, not speculation.
-
-**Automation as a default**  
-If it can be automated, it should be.
-
-**Documentation as leverage**  
-Clear reasoning compounds across decisions.
+Focused on **clarity**, **repeatability**, and **calm operational control**.
 
 ---
 
-## Current Priorities (2025 → 2026)
+## Technical Capabilities
 
-- Launching the Webibook Beta  
+### Product + UX  
+Clean design thinking, structured flows, frictionless experiences.
+
+### Engineering  
+Full-stack development with a bias for simple, modular architecture.
+
+### Cloud & Infra  
+Reliable deployments, automation pipelines, minimal and efficient infra.
+
+---
+
+## Tech Stack (Structured Grid)
+
+### Languages  
+| JavaScript | TypeScript | Python |
+|-----------|------------|--------|
+
+### Frontend  
+| React | Next.js | Tailwind | ShadCN |
+|-------|---------|----------|--------|
+
+### Backend  
+| Node.js | Express | FastAPI |
+|---------|---------|---------|
+
+### Data  
+| MongoDB | PostgreSQL |
+|---------|------------|
+
+### Infrastructure  
+| AWS | Docker | Linux | GitHub Actions |
+|-----|--------|--------|----------------|
+
+### AI & Automation  
+| RAG Systems | Workflow Engines | Agents |
+|-------------|------------------|--------|
+
+---
+
+## Focus Areas (2025 → 2026)
+
+- Launch Webibook Beta  
 - AWS Cloud Practitioner → Associate  
-- Research: RAG optimization & applied automation  
-- Scaling an automation-focused agency  
-- Building production-ready, cloud-hosted systems  
-- Securing a graduate engineering role in Dublin  
-- Consistent technical + founder content
+- Complete RAG Optimization research  
+- Scale automation agency  
+- Build polished, production-grade systems  
+- Develop a strong engineering + founder identity in Dublin  
+- Ship weekly, document consistently  
 
 ---
 
-## Professional Identity
+## Principles
 
-I operate at the intersection of engineering, product, and execution.  
-My work is measured by clarity, reliability, and the velocity at which I can turn ideas into functioning systems.
+<div align="center">
 
-I’m not building for attention—I’m building for impact, longevity, and leverage.
+<table style="width:100%; max-width:720px;">
+<tr>
+  <td align="center" style="padding:12px; border:1px solid #eaeaea;">Clarity over complexity</td>
+</tr>
+<tr>
+  <td align="center" style="padding:12px; border:1px solid #eaeaea;">Systems over features</td>
+</tr>
+<tr>
+  <td align="center" style="padding:12px; border:1px solid #eaeaea;">Momentum over perfection</td>
+</tr>
+<tr>
+  <td align="center" style="padding:12px; border:1px solid #eaeaea;">Automation over repetition</td>
+</tr>
+<tr>
+  <td align="center" style="padding:12px; border:1px solid #eaeaea;">Documentation over memory</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## Contact
-
+## Contact  
 **GitHub:** https://github.com/notyourbeast  
 **LinkedIn:** YOUR_LINKEDIN_URL  
-**Email:** YOUR_EMAIL  
+**Email:** YOUR_EMAIL
