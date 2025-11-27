@@ -1,100 +1,153 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=262626&text=Saiprasad%20(Sai)%20Shiragave&fontColor=ffffff&fontSize=36&fontAlignY=32&desc=Founder%20•%20Automation%20Engineer%20•%20MSc%20IS%20(Computing)%20@%20DBS%20Dublin&descSize=14&descAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=120&section=header&text=Saiprasad%20(Sai)%20Shiragave&fontColor=ffffff&fontSize=34&fontAlignY=60"/>
+</p>
+
+<p align="center">
+  <strong>Founder • Automation Engineer • MSc Information Systems (Computing) @ DBS Dublin</strong>
 </p>
 
 <br/>
 
+<!-- INTRO BLOCK -->
 <div align="center">
 
-### I build systems, not features.  
-### I design for clarity.  
-### I operate like a founder.
+| I build systems, not features. |
+|--------------------------------|
+| I design with clarity. |
+| I operate like a founder. |
 
 </div>
 
-<br/><br/>
-
-## About Me
-I’m Sai — a founder and automation-focused engineer currently building Webibook and preparing for my MSc in Information Systems with Computing.  
-My work sits at the intersection of **systems design**, **automation**, and **cloud engineering** — with a product mindset shaped by shipping fast and staying close to user problems.
-
-I prefer minimal design, clean logic, and quietly powerful products.
-
 <br/>
-
-## Currently Building
-### Webibook — Founder  
-A modern way to discover and book live-learning sessions — designed to feel effortless, structured, and creator-centric.
-
-**Focus areas:**  
-- event discovery  
-- creator ops  
-- automation pipelines  
-- clean dashboards  
 
 ---
 
-### Client Ops Desk  
-A compact, Notion-like operational workspace purpose-built for freelancers and agencies.
+# **About Me**
 
-**Core values:** clarity, simplicity, zero noise.
+I’m Sai — a founder and automation-focused engineer building Webibook and scaling systems that remove operational overhead.  
+My style is **minimal**, **structured**, and grounded in **first principles engineering**.
 
-<br/>
+I focus on shipping products that feel clean, lightweight, and intentionally designed—similar to a Notion workspace: simple upfront, powerful underneath.
 
-## What I Work With
-<p align="left">
+---
 
-**Product & Frontend:**  
-Next.js, React, Tailwind, ShadCN
+# **Current Work**
 
-**Backend:**  
-Node.js, Express, FastAPI
+## ▢ Webibook — Founder  
+A modern platform for discovering and booking **live-learning sessions**.
 
-**Databases:**  
-MongoDB, PostgreSQL
+**What defines it:**  
+- clean discovery experience  
+- creator-focused dashboards  
+- automation-first backend  
+- minimal UI that reduces friction  
 
-**Cloud & Infra:**  
-AWS, Docker, Linux, GitHub Actions
+---
 
-**AI & Automation:**  
-RAG systems, agents, workflow automation
+## ▢ Client Ops Desk  
+A Notion-inspired operational tool for freelancers and agencies.
 
-</p>
+**Core principles:**  
+- lean interface  
+- structured workflows  
+- replace chaos with clarity  
 
-<br/>
+---
 
-## My Focus (2025 → 2026)
-- Launch Webibook Beta  
-- AWS CP → AWS Associate  
-- RAG Optimization (research)  
-- Scale automation agency  
-- Build production-ready systems  
-- Graduate tech role in Dublin  
+# **Tech Stack (Notion-Like Grid)**
 
-<br/>
+### **Languages**
+<div align="left">
 
-## Philosophy
-I build with deliberate simplicity.  
-I automate whenever possible.  
-I document everything.  
-I believe clarity compounds.
+| JavaScript | TypeScript | Python |
+|------------|------------|--------|
 
-Good engineering isn’t loud — it’s quietly reliable.
+</div>
 
-<br/>
+### **Frontend**
+<div align="left">
 
-## Contact
-<p align="left">
+| React | Next.js | Tailwind | ShadCN |
+|-------|---------|----------|--------|
+
+</div>
+
+### **Backend**
+<div align="left">
+
+| Node.js | Express | FastAPI |
+|---------|---------|---------|
+
+</div>
+
+### **Databases**
+<div align="left">
+
+| MongoDB | PostgreSQL |
+|---------|------------|
+
+</div>
+
+### **Cloud & DevOps**
+<div align="left">
+
+| AWS | Docker | Linux | GitHub Actions |
+|-----|--------|--------|----------------|
+
+</div>
+
+### **AI & Automation**
+<div align="left">
+
+| RAG Systems | Workflow Automation | Agentic Tools |
+|-------------|----------------------|---------------|
+
+</div>
+
+---
+
+# **2025 → 2026 Focus**
+
+<div align="left">
+
+| Goal | Status |
+|------|--------|
+| Webibook Beta | In development |
+| AWS CP → AWS Associate | Studying |
+| RAG Optimization Research | Drafting |
+| Automation Agency | Scaling |
+| Graduate Engineer Role in Dublin | Target 2026 |
+| Weekly shipping + documentation | Active |
+
+</div>
+
+---
+
+# **Principles**
+
+<div align="center">
+
+| Minimal over flashy | Systems over features | Clarity over clutter |
+|---------------------|------------------------|-----------------------|
+| Architecture before UI | Automation as default | Document everything |
+
+</div>
+
+---
+
+# **Contact**
+
+<div align="left">
 
 **GitHub:** https://github.com/notyourbeast  
 **LinkedIn:** YOUR_LINKEDIN_URL  
 **Email:** YOUR_EMAIL  
 
-</p>
+</div>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=262626&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=70&section=footer"/>
 </p>
