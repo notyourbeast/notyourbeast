@@ -1,81 +1,68 @@
-<!-- PAGE HEADER -->
-# Saiprasad (Sai) Shiragave
-Founder · Automation Engineer · MSc IS (Computing) @ DBS Dublin  
+<!-- HEADER -->
+<h1 align="center" style="font-weight:600;">Saiprasad (Sai) Shiragave</h1>
 
----
-
-<!-- NOTION-STYLE SIDEBAR LAYOUT -->
-<table style="width:100%; border:none;">
-<tr>
-<td style="width:22%; vertical-align:top; border-right:1px solid #e5e5e5; padding-right:20px;">
-
-<!-- SIDEBAR -->
-<h3 style="margin-bottom:10px;">Navigation</h3>
-
-▣ [About Me](#about-me)  
-▣ [Current Work](#current-work)  
-▣ [Tech Stack](#tech-stack)  
-▣ [Focus 2025–2026](#focus-20252026)  
-▣ [Principles](#principles)  
-▣ [Contact](#contact)  
+<p align="center">
+  Founder • Automation Engineer • MSc Information Systems (Computing) @ DBS Dublin
+</p>
 
 <br/>
 
-<h3 style="margin-bottom:10px;">Projects</h3>
+<!-- INTRO -->
+<div align="center">
 
-• Webibook  
-• Client Ops Desk  
+<table style="width:60%; min-width:320px;">
+  <tr><td align="center" style="padding:12px; border:1px solid #e5e5e5;">
+    I build systems, not features.
+  </td></tr>
+  <tr><td align="center" style="padding:12px; border:1px solid #e5e5e5;">
+    I design for clarity.
+  </td></tr>
+  <tr><td align="center" style="padding:12px; border:1px solid #e5e5e5;">
+    I operate like a founder.
+  </td></tr>
+</table>
 
-<br/>
+</div>
 
-<h3 style="margin-bottom:10px;">Tools I Work In</h3>
-
-• Next.js  
-• AWS  
-• MongoDB  
-• Docker  
-• RAG Systems  
-
-<br/>
-
-</td>
-
-<td style="width:78%; vertical-align:top; padding-left:28px;">
-
-<!-- MAIN CONTENT -->
+<br/><br/>
 
 ## About Me
-I’m Sai — a founder and automation-focused engineer building Webibook and creating systems that reduce operational overhead.  
-I work with a quietly powerful approach: minimal UI, structured logic, and a product mindset shaped by clarity.
+I'm Sai — a founder and automation-focused engineer building Webibook and scaling systems that simplify operational work.
 
-My aesthetic leans toward **Notion-like simplicity** — clean, intentional, frictionless.
+My approach is shaped by **Notion’s principles**:
+- structured  
+- minimal  
+- unopinionated  
+- quietly powerful  
+
+I care about clarity, reliability, and reduction of noise in both design and engineering.
 
 ---
 
 ## Current Work
 
-### Webibook — Founder
-A modern, minimal platform for discovering and booking live-learning sessions.
+### Webibook — Founder  
+A platform for discovering and booking live-learning sessions.
 
-**Core Themes:**  
-• event discovery  
-• creator tools  
-• automation pipelines  
-• clean dashboards  
-
----
-
-### Client Ops Desk
-A Notion-inspired operations workspace for freelancers and agencies.
-
-**Built For:**  
-• clarity  
-• workflow structure  
-• operational control  
+**Focus:**  
+- clean discovery  
+- creator dashboards  
+- automation pipelines  
+- minimal, functional UI  
 
 ---
 
-## Tech Stack
+### Client Ops Desk  
+A Notion-like workspace for freelancers and agencies.
+
+**Designed for:**  
+- clarity  
+- structured workflows  
+- calm, distraction-free ops  
+
+---
+
+## Tech Stack (Notion Grid)
 
 ### Languages
 | JavaScript | TypeScript | Python |
@@ -93,42 +80,42 @@ A Notion-inspired operations workspace for freelancers and agencies.
 | MongoDB | PostgreSQL |
 |---------|------------|
 
-### Cloud & Infra
+### Cloud & DevOps
 | AWS | Docker | Linux | GitHub Actions |
 |-----|--------|--------|----------------|
 
 ### AI & Automation
-| RAG Systems | Agents | Workflow Automation |
-|-------------|--------|---------------------|
+| RAG Systems | Workflow Automation | Agents |
+|-------------|----------------------|--------|
 
 ---
 
-## Focus 2025–2026
-| Goal                                   | Status         |
-|----------------------------------------|----------------|
-| Webibook Beta                          | In development |
-| AWS CP → AWS Associate                 | Studying       |
-| RAG Optimization Research               | Drafting       |
-| Automation Agency                       | Scaling        |
-| Graduate Engineer Role in Dublin        | Target 2026    |
-| Weekly shipping + documentation         | Active         |
+## 2025 → 2026 Focus
+
+| Goal | Status |
+|------|--------|
+| Webibook Beta | In development |
+| AWS CP → AWS Associate | Studying |
+| RAG Optimization Research | Drafting |
+| Automation Agency Scale | Building |
+| Graduate Tech Role in Dublin | Target 2026 |
+| Weekly Shipping + Documentation | Active |
 
 ---
 
 ## Principles
 
-| Minimal > Flashy | Systems > Features | Clarity > Noise |
-|------------------|---------------------|-----------------|
-| Architecture first | Automation default | Document always |
+<div align="center">
+
+| Minimal over flashy | Systems over features | Clarity over clutter |
+|---------------------|------------------------|-----------------------|
+| Architecture before UI | Automation as default | Document everything |
+
+</div>
 
 ---
 
 ## Contact
-
 **GitHub:** https://github.com/notyourbeast  
 **LinkedIn:** YOUR_LINKEDIN_URL  
 **Email:** YOUR_EMAIL  
-
-</td>
-</tr>
-</table>
