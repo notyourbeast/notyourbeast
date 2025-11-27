@@ -1,121 +1,112 @@
-<!-- HEADER -->
 <h1 align="center" style="font-weight:600;">Saiprasad (Sai) Shiragave</h1>
 
 <p align="center">
-  Founder • Automation Engineer • MSc Information Systems (Computing) @ DBS Dublin
+  Founder • Automation Engineer • MSc Information Systems (Computing) @ DBS Dublin  
 </p>
 
-<br/>
+---
 
-<!-- INTRO -->
-<div align="center">
+## Executive Summary
 
-<table style="width:60%; min-width:320px;">
-  <tr><td align="center" style="padding:12px; border:1px solid #e5e5e5;">
-    I build systems, not features.
-  </td></tr>
-  <tr><td align="center" style="padding:12px; border:1px solid #e5e5e5;">
-    I design for clarity.
-  </td></tr>
-  <tr><td align="center" style="padding:12px; border:1px solid #e5e5e5;">
-    I operate like a founder.
-  </td></tr>
-</table>
+I build products and systems that remove operational friction.  
+My work combines engineering discipline, product clarity, and the urgency of a founder shipping fast.
 
-</div>
-
-<br/><br/>
-
-## About Me
-I'm Sai — a founder and automation-focused engineer building Webibook and scaling systems that simplify operational work.
-
-My approach is shaped by **Notion’s principles**:
-- structured  
-- minimal  
-- unopinionated  
-- quietly powerful  
-
-I care about clarity, reliability, and reduction of noise in both design and engineering.
+I focus on creating tools that work quietly, scale cleanly, and enhance how people learn, collaborate, and manage their work.  
+Every project I build reflects a simple principle: **clarity is a competitive advantage**.
 
 ---
 
-## Current Work
+## Current Ventures
 
-### Webibook — Founder  
-A platform for discovering and booking live-learning sessions.
+### Webibook — Founder & Product Lead  
+A modern platform designed to simplify discovery and booking for live-learning sessions.
 
-**Focus:**  
-- clean discovery  
-- creator dashboards  
-- automation pipelines  
-- minimal, functional UI  
+**Positioning:**  
+A cleaner, more intentional learning-discovery experience with automation at the core.
 
----
-
-### Client Ops Desk  
-A Notion-like workspace for freelancers and agencies.
-
-**Designed for:**  
-- clarity  
-- structured workflows  
-- calm, distraction-free ops  
+**Responsibilities:**  
+- Vision & product direction  
+- System architecture  
+- Engineering & deployment  
+- User experience & creator workflows
 
 ---
 
-## Tech Stack (Notion Grid)
+### Client Ops Desk — Operational Workspace  
+A Notion-inspired operational tool for freelancers and agencies.
 
-### Languages
-| JavaScript | TypeScript | Python |
-|-----------|------------|--------|
-
-### Frontend
-| React | Next.js | Tailwind | ShadCN |
-|-------|---------|----------|--------|
-
-### Backend
-| Node.js | Express | FastAPI |
-|---------|---------|---------|
-
-### Databases
-| MongoDB | PostgreSQL |
-|---------|------------|
-
-### Cloud & DevOps
-| AWS | Docker | Linux | GitHub Actions |
-|-----|--------|--------|----------------|
-
-### AI & Automation
-| RAG Systems | Workflow Automation | Agents |
-|-------------|----------------------|--------|
+**Purpose:**  
+To replace clutter, scattered files, and inconsistent workflows with a structured, minimal environment built for real execution.
 
 ---
 
-## 2025 → 2026 Focus
+## Areas of Competence
 
-| Goal | Status |
-|------|--------|
-| Webibook Beta | In development |
-| AWS CP → AWS Associate | Studying |
-| RAG Optimization Research | Drafting |
-| Automation Agency Scale | Building |
-| Graduate Tech Role in Dublin | Target 2026 |
-| Weekly Shipping + Documentation | Active |
+**Product & Design**  
+- Clean UX frameworks  
+- Systems thinking  
+- Minimal, intentional interface design  
+- Customer-centric product iteration  
+
+**Engineering**  
+- Full-stack development  
+- Workflow automation  
+- Cloud infrastructure  
+- Backend architecture  
+- AI-assisted systems (RAG, agents)
+
+**Tools & Technologies**  
+- Next.js, React, Tailwind, ShadCN  
+- Node.js, Express, FastAPI  
+- MongoDB, PostgreSQL  
+- AWS, Docker, Linux  
+- GitHub Actions, CI/CD  
+- RAG systems, workflow engines
 
 ---
 
-## Principles
+## Operating Principles
 
-<div align="center">
+**Clarity over complexity**  
+Every system should be understandable at a glance.
 
-| Minimal over flashy | Systems over features | Clarity over clutter |
-|---------------------|------------------------|-----------------------|
-| Architecture before UI | Automation as default | Document everything |
+**Structure over aesthetics**  
+The architecture matters more than the shine.
 
-</div>
+**Momentum over perfection**  
+Shipping creates real feedback, not speculation.
+
+**Automation as a default**  
+If it can be automated, it should be.
+
+**Documentation as leverage**  
+Clear reasoning compounds across decisions.
+
+---
+
+## Current Priorities (2025 → 2026)
+
+- Launching the Webibook Beta  
+- AWS Cloud Practitioner → Associate  
+- Research: RAG optimization & applied automation  
+- Scaling an automation-focused agency  
+- Building production-ready, cloud-hosted systems  
+- Securing a graduate engineering role in Dublin  
+- Consistent technical + founder content
+
+---
+
+## Professional Identity
+
+I operate at the intersection of engineering, product, and execution.  
+My work is measured by clarity, reliability, and the velocity at which I can turn ideas into functioning systems.
+
+I’m not building for attention—I’m building for impact, longevity, and leverage.
 
 ---
 
 ## Contact
+
 **GitHub:** https://github.com/notyourbeast  
 **LinkedIn:** YOUR_LINKEDIN_URL  
 **Email:** YOUR_EMAIL  
