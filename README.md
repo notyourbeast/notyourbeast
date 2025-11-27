@@ -1,141 +1,89 @@
-<h1 align="center" style="font-weight:700; letter-spacing:-1px; font-size:42px;">
-  Saiprasad (Sai) Shiragave
-</h1>
+\<div align="center"\>
 
-<p align="center" style="font-size:16px; color:#555;">
-  Founder • Automation Engineer • MSc Information Systems (Computing) @ DBS Dublin  
-</p>
+# Saiprasad (Sai) Shiragave
 
-<br/>
+### Systems Architect. Automation-First Founder.
 
-<!-- SECTION BLOCK START -->
-<div align="center">
+-----
 
-<div style="width:80%; max-width:720px; border:1px solid #e5e5e5; padding:20px 28px; text-align:center;">
+\</div\>
 
-<div style="font-size:20px; font-weight:600; margin-bottom:8px;">I build systems with clarity.</div>
-<div style="font-size:16px; color:#555;">Not products overloaded with noise or unnecessary complexity.</div>
+> **Executive Summary:** I build scalable systems and orchestrate processes for efficiency. My focus is on the intersection of deep product understanding and robust engineering, driving execution with minimal operational overhead. I prioritize automation and clarity in every output.
 
-</div>
+<br>
 
-</div>
-<!-- SECTION BLOCK END -->
+## 💡 About Me
 
-<br/><br/>
+| | |
+| :--- | :--- |
+| **Mindset** | **Founder-Engineer.** I see code as leverage to automate inefficient systems. The goal isn't just to write software, but to architect **self-sustaining, zero-maintenance processes** that compound value. Every line of code is measured by the system it replaces or optimizes. |
 
+<br>
 
-## Overview
-I’m a builder focused on **systems, automation, and clean product thinking**.  
-I design tools that operate quietly, scale predictably, and simplify complex workflows —  
-with the same calm, structured philosophy that defines Notion, Linear, and modern engineering teams.
+-----
 
-My goal: build with intention, ship with discipline, and operate with founder-level ownership.
+<br>
 
----
+## 🛠️ Current Work
 
-## Work
+| | |
+| :--- | :--- |
+| **Webibook** | **Founder, Architect.** Building a modern, ultra-minimalist platform for publishing digital content. Focused on extreme performance, modular component architecture, and developer-centric workflows. |
+| **Client Ops Desk** | **Lead System Designer.** Engineered a scalable internal operations desk to manage client onboarding, billing, and support lifecycle. Leveraged serverless functions and event-driven architecture to achieve **95% automation** of routine tasks. |
 
-### Webibook — Founder  
-A streamlined way to discover and book live-learning sessions.
+<br>
 
-**Why it matters:**  
-Today’s learning ecosystems are fragmented and noisy. Webibook creates a **structured, modern, distraction-free** experience for learners and creators.
+-----
 
-**Areas:**  
-- discovery architecture  
-- creator dashboard systems  
-- automation workflows  
-- full-stack execution  
+<br>
 
----
+## 💻 Tech Stack
 
-### Client Ops Desk  
-A minimal operational workspace for freelancers & agencies — Notion-like in structure, system-like in execution.
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | TypeScript, Python, Go, SQL |
+| **Frontend** | React, Next.js, Tailwind CSS, Vercel |
+| **Backend / Infra** | Node.js, PostgreSQL, Serverless (AWS Lambda/Vercel Edge), Terraform, Docker |
+| **Data / Ops** | Apache Kafka, Redis, Github Actions, Ansible |
 
-Focused on **clarity**, **repeatability**, and **calm operational control**.
+<br>
 
----
+-----
 
-## Technical Capabilities
+<br>
 
-### Product + UX  
-Clean design thinking, structured flows, frictionless experiences.
+## 🎯 Focus 2025 → 2026
 
-### Engineering  
-Full-stack development with a bias for simple, modular architecture.
+| Area | Goal | Metric / System |
+| :--- | :--- | :--- |
+| **System Reliability** | Achieve five-nines (99.999%) uptime for core services. | Implement chaos engineering practices. |
+| **Process Automation** | Reduce recurring operational time by 40%. | Extend event-driven architecture to all internal workflows. |
+| **Architecture** | Finalize modular transition to micro-frontends/services. | Define strict, decoupled API contracts. |
 
-### Cloud & Infra  
-Reliable deployments, automation pipelines, minimal and efficient infra.
+<br>
 
----
+-----
 
-## Tech Stack (Structured Grid)
+<br>
 
-### Languages  
-| JavaScript | TypeScript | Python |
-|-----------|------------|--------|
+## 📝 Operating Principles
 
-### Frontend  
-| React | Next.js | Tailwind | ShadCN |
-|-------|---------|----------|--------|
+| | |
+| :--- | :--- |
+| ✅ | **Default to Clarity.** Ambiguity is the highest cost in engineering. Document and communicate systems with absolute precision. |
+| ✅ | **Automate or Delete.** If a task is repeatable, it must be automated. If a process cannot be automated, question its necessity. |
+| ✅ | **Measure Impact.** Focus effort only on initiatives that drive the highest leverage and measurable product or business outcomes. |
 
-### Backend  
-| Node.js | Express | FastAPI |
-|---------|---------|---------|
+<br>
 
-### Data  
-| MongoDB | PostgreSQL |
-|---------|------------|
+-----
 
-### Infrastructure  
-| AWS | Docker | Linux | GitHub Actions |
-|-----|--------|--------|----------------|
+<br>
 
-### AI & Automation  
-| RAG Systems | Workflow Engines | Agents |
-|-------------|------------------|--------|
+## 📧 Contact
 
----
-
-## Focus Areas (2025 → 2026)
-
-- Launch Webibook Beta  
-- AWS Cloud Practitioner → Associate  
-- Complete RAG Optimization research  
-- Scale automation agency  
-- Build polished, production-grade systems  
-- Develop a strong engineering + founder identity in Dublin  
-- Ship weekly, document consistently  
-
----
-
-## Principles
-
-<div align="center">
-
-<table style="width:100%; max-width:720px;">
-<tr>
-  <td align="center" style="padding:12px; border:1px solid #eaeaea;">Clarity over complexity</td>
-</tr>
-<tr>
-  <td align="center" style="padding:12px; border:1px solid #eaeaea;">Systems over features</td>
-</tr>
-<tr>
-  <td align="center" style="padding:12px; border:1px solid #eaeaea;">Momentum over perfection</td>
-</tr>
-<tr>
-  <td align="center" style="padding:12px; border:1px solid #eaeaea;">Automation over repetition</td>
-</tr>
-<tr>
-  <td align="center" style="padding:12px; border:1px solid #eaeaea;">Documentation over memory</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## Contact  
-**GitHub:** https://github.com/notyourbeast  
-**LinkedIn:** YOUR_LINKEDIN_URL  
-**Email:** YOUR_EMAIL
+| | |
+| :--- | :--- |
+| **Email** | saiprasad.shiragave [at] gmail [dot] com |
+| **LinkedIn** | [linkedin.com/in/saiprasad-shiragave](https://www.google.com/search?q=https://www.linkedin.com/in/saiprasad-shiragave) |
+| **Website** | [sai.dev](https://sai.dev) (In progress) |
