@@ -85,5 +85,5 @@
 | | |
 | :--- | :--- |
 | **Email** | saishiragave@gmail.com |
-| **LinkedIn** | [linkedin.com/in/saiprasad-shiragave](https://www.google.com/search?q=https://www.linkedin.com/in/saiprasad-shiragave) |
+| **LinkedIn** | [linkedin.com/in/saiprasad-shiragave](https://www.linkedin.com/in/saiprasad-shiragave-a16522271?utm_source=share_via&utm_content=profile&utm_medium=member_ios) |
 | **Website** | (In progress) |
