@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=MSc+Information+Systems+with+Computing+%40+@+DBS;Building+@WebiBook+%E2%80%94+AI-powered+webinar+discovery;Researching+AMED%3A+AI-Mediated+Epistemic+Dependency" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=MSc+Information+Systems+with+Computing+%40+DBS;Building+@WebiBook+%E2%80%94+AI-powered+webinar+discovery;Researching+AMED%3A+AI-Mediated+Epistemic+Dependency" alt="Typing SVG" />
 </p>
 
 <p align="center">
