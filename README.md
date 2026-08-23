@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=E74C3C&center=true&vCenter=true&width=500&height=50&lines=Hello!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0!;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;%E0%B2%A8%E0%B2%AE%E0%B2%B8%E0%B3%8D%E0%B2%95%E0%B2%BE%E0%B2%B0!" alt="Hello in different languages" />
+</p>
+
 <h1 align="center">
-  Hi, I'm Sai 👋
+  I'm Sai 👋
 </h1>
 
 <h3 align="center">
@@ -22,7 +26,7 @@
 
 - 🎯 **Hunting for a PhD** in Explainable AI / Human-AI Interaction — anchored around my own theoretical construct, **AMED (AI-Mediated Epistemic Dependency)**, which argues repeated exposure to sycophantic LLMs erodes users' independent epistemic judgment
 - 📄 Finishing my **MSc dissertation** on RAG chunking strategies — comparing fixed-size, sentence-based, semantic, and topic-aware chunking, evaluated with RAGAS (faithfulness, context recall, answer relevancy, context precision)
-- 🚀 Building **[WebiBook](#-featured-project-webibook)** — an AI-powered webinar/learning discovery platform, ~95% built, pre-launch
+- 🚀 Building **[WebiBook](https://www.webibook.in)** — an AI-powered webinar/learning discovery platform, ~95% built, pre-launch
 - 🩺 Working part-time as a **caregiver** in Ireland alongside all of the above
 
 <details>
@@ -37,12 +41,13 @@ If any of this overlaps with your lab's work, I'd love to hear from you. Reach o
 
 ---
 
-### 🚀 Featured project: WebiBook
+### 🚀 Featured project: [WebiBook](https://www.webibook.in)
 
 > AI-powered platform for discovering and learning from webinars — think semantic search meets curated learning paths.
 
+- 🔗 **Live site:** [www.webibook.in](https://www.webibook.in)
 - 🧠 **Stack:** Next.js · PostgreSQL + pgvector · Gemini API
-- 📈 **Status:** ~95% built, pre-launch — currently indexing webinars and onboarding early users ahead of a public launch
+- 📈 **Status:** ~95% built, pre-launch; currently indexing webinars and onboarding early users ahead of a public launch
 - 🎯 **Growth plan:** manual content indexing → early user onboarding → campus ambassador program
 
 <details>
@@ -124,7 +129,7 @@ BCA — KLE Society's College of BCA, Karnataka, India
 
 ### 🥾 Outside of research
 
-When I'm not writing cover letters or debugging a RAG pipeline, I'm usually out on a trail @ Howth Cliff Walk and Glendalough are regulars. I also tinker with side projects for fun, from social content experiments to the odd quant-finance model.
+When I'm not writing cover letters or debugging a RAG pipeline, I'm usually out on a trail — Howth Cliff Walk and Glendalough are regulars. I also tinker with side projects for fun, from social content experiments to the odd quant-finance model.
 
 ---
 
@@ -132,8 +137,8 @@ When I'm not writing cover letters or debugging a RAG pipeline, I'm usually out 
 
 <p>
   <a href="mailto:saishiragave@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/saiprasad-shiragave-a16522271/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saiprasad-shiragave-a16522271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.webibook.in"><img src="https://img.shields.io/badge/WebiBook-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center"><em>If you're a PhD supervisor working on XAI, human-AI trust, or LLM cognitive effects — my inbox is open.</em></p>
